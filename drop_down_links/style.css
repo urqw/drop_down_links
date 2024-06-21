@@ -1,0 +1,8 @@
+.dropdownmenulinks > ul.dropdown-menu > li {
+    padding: 3px 20px;
+    color: #939191;
+}
+
+.dropdownmenulinks > ul.dropdown-menu > li > a {
+    padding: 0;
+}
